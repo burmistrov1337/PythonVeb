@@ -2,7 +2,7 @@
 
 # n = int(input("Введите число N: "))
 
-n = int(input('Enter number: ')) 
+n = int(input("Введите число N: ")) 
 
 def sequence(n):
 

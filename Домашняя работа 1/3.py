@@ -10,9 +10,9 @@ x = int(input("Введите координату X: "))
 y = int(input("Введите координату Y: "))
 
 
-if x < 0 and y > 0:
+if x > 0 and y > 0:
     print("I четверть")
-elif x > 0 and y > 0:
+elif x < 0 and y > 0:
     print("II четверть")
 elif x < 0 and y < 0:
     print("III четверть")

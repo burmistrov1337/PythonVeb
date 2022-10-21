@@ -1,2 +1,0 @@
-# PythonVeb
-Вебинары по Python
